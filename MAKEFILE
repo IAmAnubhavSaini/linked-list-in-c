@@ -1,0 +1,1 @@
+tests.obj: ; cl /C tests\test_Runner.c tests\*.c src\*.c
